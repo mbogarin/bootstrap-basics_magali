@@ -1,14 +1,4 @@
 /* ========================
-    RESET
-========================= */
-
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-/* ========================
     FORM
 ========================= */
 .custom-form {
@@ -25,7 +15,7 @@
     BUTTONS/LABELS
 ========================= */
 .btn:hover {
-	transform: scale(1);
+	transform: scale(1.05);
 }
 
 .checkbox-label {
